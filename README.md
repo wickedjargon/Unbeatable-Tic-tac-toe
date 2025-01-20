@@ -1,5 +1,5 @@
 # Unbeatable Tic-tac-toe
-Computer Tic-tac-toe written in Rust. Uses bitboards and the minimax algorithm.
+Computer Tic-tac-toe written in Rust with [raylib-rs](https://github.com/deltaphc/raylib-rs). Uses bitboards and the minimax algorithm.
 
 ## Screenshot
 ![screenshot](./screenshot.png)
